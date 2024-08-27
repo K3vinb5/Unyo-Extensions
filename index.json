@@ -1,37 +1,50 @@
 {
- "allanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/allanime.jar",
- "anidong" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anidong.jar",
- "animefenix" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animefenix.jar",
- "animeflv" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animeflv.jar",
- "animemovil" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animemovil.jar",
- "animeparadise" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animeparadise.jar",
- "animesaturn" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animesaturn.jar",
- "animescx" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animescx.jar",
- "animesdigital" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animesdigital.jar",
- "animeyt" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/animeyt.jar",
- "aniwave" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/aniwave.jar",
- "gogoanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/gogoanime.jar",
- "jkanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/jkanime.jar",
- "kaido" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/kaido.jar",
- "kickassanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/kickassanime.jar",
- "nollyverse" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/nollyverse.jar"
-}
-#
-{
- "allanime" : "🇬🇧",
- "anidong" : "🇵🇹",
- "animefenix" : "",
- "animeflv" : "🇪🇸",
- "animemovil" : "🇪🇸",
- "animeparadise" : "",
- "animesaturn" : "🇮🇹",
- "animescx" : "🇵🇹",
- "animesdigital" : "🇵🇹",
- "animeyt" : "🇪🇸",
- "aniwave" : "🇬🇧",
- "gogoanime" : "🇬🇧",
- "jkanime" : "🇪🇸",
- "kaido" : "🇬🇧",
- "kickassanime" : "🇬🇧",
- "nollyverse" : "🇬🇧"
+    "animeAvailableExtensions" : {
+    "allanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/allanime.jar",
+    "anidong" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/anidong.jar",
+    "animefenix" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animefenix.jar",
+    "animeflv" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animeflv.jar",
+    "animemovil" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animemovil.jar",
+    "animeparadise" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animeparadise.jar",
+    "animesaturn" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animesaturn.jar",
+    "animescx" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animescx.jar",
+    "animesdigital" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animesdigital.jar",
+    "animeyt" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/animeyt.jar",
+    "aniwave" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/aniwave.jar",
+    "gogoanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/gogoanime.jar",
+    "jkanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/jkanime.jar",
+    "kaido" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/kaido.jar",
+    "kickassanime" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/kickassanime.jar",
+    "nollyverse" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/anime/nollyverse.jar"
+    },
+    "animeExtensionsLang" : {
+    "allanime" : "🇬🇧",
+    "anidong" : "🇵🇹",
+    "animefenix" : "",
+    "animeflv" : "🇪🇸",
+    "animemovil" : "🇪🇸",
+    "animeparadise" : "",
+    "animesaturn" : "🇮🇹",
+    "animescx" : "🇵🇹",
+    "animesdigital" : "🇵🇹",
+    "animeyt" : "🇪🇸",
+    "aniwave" : "🇬🇧",
+    "gogoanime" : "🇬🇧",
+    "jkanime" : "🇪🇸",
+    "kaido" : "🇬🇧",
+    "kickassanime" : "🇬🇧",
+    "nollyverse" : "🇬🇧"
+    },
+    "mangaAvailableExtensions" : {
+    "mangasee" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/mangasee.jar",
+    "anidong" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/mangalife.jar",
+    "animefenix" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/tcbscans.jar",
+    "animeflv" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/mangakatana.jar"
+    },
+    "mangaExtensionsLang" : {
+    "mangasee" : "🇬🇧",
+    "mangalife" : "🇬🇧",
+    "tcbscans" : "🇬🇧",
+    "mangakatana" : "🇬🇧"
+    }
 }
